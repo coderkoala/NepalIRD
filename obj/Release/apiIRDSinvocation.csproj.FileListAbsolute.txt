@@ -1,0 +1,9 @@
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\IRDapi.dll.config
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\IRDapi.dll
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\IRDapi.pdb
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\Newtonsoft.Json.dll
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\Newtonsoft.Json.xml
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\obj\Release\IRDapi.dll
+C:\Users\nobel\Documents\Visual Studio 2012\Projects\apiIRDSinvocation\apiIRDSinvocation\obj\Release\IRDapi.pdb
